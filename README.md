@@ -7,6 +7,7 @@ This repository contains a Python script to plot the interaction energy between 
 To install the required packages, use:
 ```bash
 pip install numpy matplotlib
+```
 
 
 ## Usage
